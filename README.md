@@ -39,11 +39,12 @@ I have created only a few projects so far, but they are very cool:
 ---
 
 ## 💻 My equipment
-* Primary phone - Xiaomi Redmi Note 14 8/256
-* Second phones - Honor X8A 6/128, realme C11 2/32
-* Primary laptop - Hasee (forgot model) 16/512 RTX3050 TI 4GB | 11th Gen Intel Core i5-11260H @ 2.60GHz, Windows 11 Pro
-* Server - Arch Linux (server) 8/128 | Intel Core i5-3470 (4) @ 3.60 GHz
-* Other: MIDI-keyboard, electric-guitar Cort, fifine microfone, mouse logitech G102, keyboard AJAZZ
+* **Primary phone:** Xiaomi Redmi Note 14 (8/256)
+* **Secondary phones:** Honor X8A (6/128), realme C11 (2/32)
+* **Primary laptop:** Hasee | Intel Core i5-11260H @ 2.60GHz | 16GB RAM | 512GB SSD | RTX 3050 Ti (4GB) | Windows 11 Pro
+* **Server:** Arch Linux (Dedicated Server) | Intel Core i5-3470 (4) @ 3.60 GHz | 8GB RAM | 128GB SSD
+* **Audio & Peripherals:** Cort electric guitar, MIDI keyboard, Fifine microphone, Logitech G102 mouse, AJAZZ keyboard
+
 
 ---
 
