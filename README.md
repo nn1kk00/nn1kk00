@@ -18,7 +18,7 @@ My pronouns: He/Him
 I have created only a few projects so far, but they are very cool:
 
 ### 🌌 Main Production
-* **[LunarChat (Organization)](https://github.com/LunarChat) // [ALPHA (Public)](https://github.com/nn1kk00/lunarchat-alpha)** — This is my first large-scale project. LunarChat is a social network where users can publish images, songs, videos, and more. It also features live DMs. [Live Website](https://lunarchat.ru)
+* **[LunarChat](https://github.com/LunarChat) // [ALPHA](https://github.com/nn1kk00/lunarchat-alpha)** — This is my first large-scale project. LunarChat is a social network where users can publish images, songs, videos, and more. It also features live DMs. [Website](https://lunarchat.ru)
 
 ### 🤖 Telegram bots
 * **[Glubina-Nochi Bot](https://github.com/nn1kk00/Telegram-bot-glubina-nochi_bot)** — This Telegram bot was made to manage access to a private chat.
@@ -33,8 +33,8 @@ I have created only a few projects so far, but they are very cool:
 ---
 
 ## 📚 My langs & tech stack
-* **Languages:** Python 🐍 (btw, my favorite framework is **Django**!), HTML5, CSS3, JavaScript (Basic)
-* **Future roadmap (Plans to learn):** C++, Java, Go, TypeScript
+* **Languages:** Python (btw, my favorite framework is **Django**), HTML5, CSS3, JavaScript (Basic)
+* **Plans to learn:** C++, Java, Go, TypeScript
 
 ---
 
