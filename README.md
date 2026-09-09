@@ -38,5 +38,14 @@ I have created only a few projects so far, but they are very cool:
 
 ---
 
+## 💻 My equipment
+* Primary phone - Xiaomi Redmi Note 14 8/256
+* Second phones - Honor X8A 6/128, realme C11 2/32
+* Primary laptop - Hasee (forgot model) 16/512 RTX3050 TI 4GB | 11th Gen Intel Core i5-11260H @ 2.60GHz, Windows 11 Pro
+* Server - Arch Linux (server) 8/128 | Intel Core i5-3470 (4) @ 3.60 GHz
+* Other: MIDI-keyboard, electric-guitar Cort, fifine microfone, mouse logitech G102, keyboard AJAZZ
+
+---
+
 ## That's all. Thanks for reading! 🩵
 *P.S. If you want to contact me — check out [my website](https://nn1kk00.ru)*
