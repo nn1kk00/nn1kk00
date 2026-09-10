@@ -36,11 +36,11 @@ I have created only a few projects so far, but they are very cool:
 I don't know too much yet, but I'm in the process of learning new programming languages 💦
 
 # 💻 Frontend
-![HTML5] ![CSS3] ![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://www.w3.org/html/) [![CSS3](https://www.w3.org/css) [![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 # ⚙️ Backend
-![Python](https://python.org/) ![Django](https://www.djangoproject.com/) ![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://python.org/) [![Django](https://www.djangoproject.com/) [![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-* **Plans to learn:** ![C++](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/), ![Java](https://www.java.com/), ![Go](https://go.dev/), ![TypeScript](https://www.typescriptlang.org/) ![PostgreSQL](https://www.postgresql.org/) ![React](https://react.dev)
+* **Plans to learn:** [![C++](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/), [![Java](https://www.java.com/), [![Go](https://go.dev/), [![TypeScript](https://www.typescriptlang.org/) [![PostgreSQL](https://www.postgresql.org/) [![React](https://react.dev)
 
 ---
 
