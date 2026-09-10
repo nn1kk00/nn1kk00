@@ -18,7 +18,7 @@ My pronouns: He/Him
 I have created only a few projects so far, but they are very cool:
 
 ### 🌌 Main Production
-* **[LunarChat](https://github.com/LunarChat) // [ALPHA](https://github.com/nn1kk00/lunarchat-alpha)** — This is my first large-scale project. LunarChat is a social network where users can publish images, songs, videos, and more. It also features live DMs. [Website](https://lunarchat.ru)
+* **[LunarChat](https://github.com/LunarChat) // [ALPHA](https://github.com/nn1kk00/lunarchat-alpha)** — This is my first large-scale project. LunarChat is a social network where users can publish images, songs, videos, and more. It also features live DMs. [!Website](https://lunarchat.ru)
 
 ### 🤖 Telegram bots
 * **[Glubina-Nochi Bot](https://github.com/nn1kk00/Telegram-bot-glubina-nochi_bot)** — This Telegram bot was made to manage access to a private chat.
@@ -33,8 +33,14 @@ I have created only a few projects so far, but they are very cool:
 ---
 
 ## 📚 My langs & tech stack
-* **Languages:** Python (btw, my favorite framework is **Django**), HTML5, CSS3, JavaScript (Basic)
-* **Plans to learn:** C++, Java, Go, TypeScript
+I don't know too much yet, but I'm in the process of learning new programming languages 💦
+
+# 💻 Frontend
+[!HTML5] [!CSS3] [!JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+# ⚙️ Backend
+[!Python](https://python.org/) [!Django](https://www.djangoproject.com/) [!JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+* **Plans to learn:** [!C++](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/), [!Java](https://www.java.com/), [!Go](https://go.dev/), [!TypeScript](https://www.typescriptlang.org/) [!PostgreSQL](https://www.postgresql.org/) [!React](https://react.dev)
 
 ---
 
