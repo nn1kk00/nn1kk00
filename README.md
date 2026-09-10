@@ -36,12 +36,11 @@ I have created only a few projects so far, but they are very cool:
 I don't know too much yet, but I'm in the process of learning new programming languages 💦
 
 # 💻 Frontend
-[![HTML5](https://www.w3.org/html/) [![CSS3](https://www.w3.org/css) [![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html) [![CSS3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/css) [![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 # ⚙️ Backend
-[![Python](https://python.org/) [![Django](https://www.djangoproject.com/) [![JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org/) [![Django](https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-* **Plans to learn:** [![C++](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/), [![Java](https://www.java.com/), [![Go](https://go.dev/), [![TypeScript](https://www.typescriptlang.org/) [![PostgreSQL](https://www.postgresql.org/) [![React](https://react.dev)
-
+* **Plans to learn:** [![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C&logoColor=white)](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/) [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)](https://www.java.org/) [![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Go](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/), [![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 ---
 
 ## 💻 My equipment
