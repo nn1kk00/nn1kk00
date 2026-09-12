@@ -42,6 +42,7 @@ I don't know too much yet, but I'm in the process of learning new programming la
 
 # Plans to learn 
 [![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C&logoColor=white)](https://visualstudio.microsoft.com/ru/vs/features/cplusplus/) [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)](https://www.java.org/) [![Typescript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Go](https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/) [![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Kotlin](https://img.shields.io/badge/kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 ---
 
 ## 💻 My equipment
